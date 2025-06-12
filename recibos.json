@@ -1,0 +1,23 @@
+[
+  {
+    "numeroRecibo": "TASP2025001",
+    "lugarExpedicion": "Bogotá D.C.",
+    "fechaExpedicion": "8 de enero de 2025",
+    "nombreArrendatario": "Jeixon Ovelio Arias Guerra",
+    "documentoArrendatario": "1049637093",
+    "telefonoArrendatario": 3204708086,
+    "emailArrendatario": "Por Establecer",
+    "montoPagado": "650000",
+    "montoEnLetras": "seiscientos cincuenta mil pesos M/CTE",
+    "formaPago": "Consignación bancaria",
+    "fechaPago": "2025-01-07",
+    "horaPago": "17:03",
+    "concepto": "Canon de arrendamiento",
+    "direccionInmueble": "CARRERA 19 N° 30-13 BARRIO ALTAMIRA, TUNJA (BOYACÁ) SEGUNDO PISO",
+    "parteArrendada": "Segundo piso",
+    "periodoInicio": "2025-01-06",
+    "periodoFin": "2025-02-05",
+    "nombreQuienRecibe": "Manuel Antonio Arias Guerra",
+    "cedulaQuienRecibe": "1.057.736.060"
+  }
+]
