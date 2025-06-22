@@ -19,6 +19,26 @@
     "periodoFin": "2025-07-05",
     "nombreQuienRecibe": "Jheixon Ovelio Arias Guerra",
     "cedulaQuienRecibe": "1.049.637.093"
+  }, 
+  {
+    "numeroRecibo": "PEST2025002",
+    "lugarExpedicion": "Bogotá D.C.",
+    "fechaExpedicion": "22 de junio de 2025",
+    "nombreArrendatario": "Monica De Los Angeles Echeverria Cely",
+    "documentoArrendatario": "46682058",
+    "telefonoArrendatario": "3144907414",
+    "emailArrendatario": "11@gmail.com",
+    "montoPagado": "600000",
+    "montoEnLetras": "seiscientos mil pesos M/CTE",
+    "formaPago": "Consignación bancaria",
+    "fechaPago": "2025-06-05",
+    "horaPago": "12:53",
+    "concepto": "Canon de arrendamiento",
+    "direccionInmueble": "CARRERA 17C NRO. 19B 14 MANZANA D CASA 7, BARRIO LA ESTACIÓN, PAIPA (BOYACÁ)",
+    "parteArrendada": "CASA UNIFAMILIAR",
+    "periodoInicio": "2025-06-05",
+    "periodoFin": "2025-07-05",
+    "nombreQuienRecibe": "Jheixon Ovelio Arias Guerra",
+    "cedulaQuienRecibe": "1.049.637.093"
   }
-
 ]
