@@ -30,15 +30,16 @@
     "emailArrendatario": "11@gmail.com",
     "montoPagado": "600000",
     "montoEnLetras": "seiscientos mil pesos M/CTE",
-    "formaPago": "Consignación bancaria",
-    "fechaPago": "2025-06-05",
-    "horaPago": "12:53",
+    "formaPago": "Efectivo",
+    "fechaPago": "2025-06-06",
+    "horaPago": "13:08",
     "concepto": "Canon de arrendamiento",
     "direccionInmueble": "CARRERA 17C NRO. 19B 14 MANZANA D CASA 7, BARRIO LA ESTACIÓN, PAIPA (BOYACÁ)",
     "parteArrendada": "CASA UNIFAMILIAR",
-    "periodoInicio": "2025-06-05",
-    "periodoFin": "2025-07-05",
+    "periodoInicio": "2025-07-06",
+    "periodoFin": "2025-08-05",
     "nombreQuienRecibe": "Jheixon Ovelio Arias Guerra",
     "cedulaQuienRecibe": "1.049.637.093"
   }
+
 ]
