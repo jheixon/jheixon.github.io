@@ -321,8 +321,8 @@ document.getElementById('formularioRecibo').addEventListener('submit', function(
         parteArrendada: propiedad.parteArrendada,
         periodoInicio: fechaInicio,
         periodoFin: fechaFin,
-        nombreQuienRecibe: "Manuel Antonio Arias Guerra",
-        cedulaQuienRecibe: "1.057.736.060"
+        nombreQuienRecibe: "Jheixon Ovelio Arias Guerra",
+        cedulaQuienRecibe: "1.049.637.093"
     };
 
     if (reciboActual) {
